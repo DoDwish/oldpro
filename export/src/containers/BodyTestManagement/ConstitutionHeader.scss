@@ -1,0 +1,101 @@
+.rowLineHeight{
+    line-height: 30px;
+
+}
+
+.titleBox{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    width: 80px;
+}
+
+.sTitle{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    width: 40px;
+    margin-left: 30px;
+}
+
+.lTitle{
+    display: inline-block;
+    height: 30px;
+    line-height: 30px;
+    width: 40px;
+    margin-left: 20px;
+}
+
+.iconStyle{
+    cursor: pointer;
+    position: relative;
+    top: 4px;
+    margin-left: 20px;
+    font-size: 24px;
+    transition: all .3s;
+    color: #e20000;
+}
+
+.addIconStyle{
+    cursor: pointer;
+    position: relative;
+    top: 4px;
+    margin-left: 20px;
+    font-size: 24px;
+    transition: all .3s;
+    color: #55cdeb;
+}
+
+.addIcon{
+    font-size: 24px;
+    color: #55cdeb;
+    margin-left: 30px;
+}
+
+.lSelect{
+    width: 170px;
+}
+
+.sSelect{
+    width: 80px;
+}
+.mr50{
+     margin-right: 50px;
+ }
+.mr40{
+    margin-right: 40px;
+}
+.mr30{
+    margin-right: 30px;
+}
+.mr20{
+    margin-right: 20px;
+}
+.mr10{
+    margin-right: 10px;
+}
+.mr2{
+    margin-right: 2px;
+}
+.ml10{
+    margin-left: 10px;
+}
+
+.formItemStyle{
+    width: 800px;
+    display: block;
+}
+
+.subjectBox{
+    display: inline-block;
+}
+
+
+.inlineForm{
+    display: inline-block;
+}
+
+.selectBox {
+  width: 120px;
+  height: 26px;
+}

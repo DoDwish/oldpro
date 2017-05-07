@@ -1,0 +1,106 @@
+.sendCodeBtn {
+  cursor: pointer;
+  background-color: #F5F5F5;
+  width: 38%;
+  display: inline-block;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  text-align: center;
+  padding: 4px 0;
+  line-height: 1.5;
+  font-size: 12px;
+  box-sizing: border-box;
+  margin-left: 1%;
+}
+.forget-tips-container {
+  text-align: right;
+}
+.forget-tips {
+  color: red;
+  cursor: pointer;
+}
+.login-form {
+  width: 400px;
+  padding: 24px 60px;
+  padding-bottom: 0px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: #fff;
+  border-radius: 5px;
+}
+
+.login-form-forgot {
+  float: right;
+}
+
+.login-bg {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  background: url(../../img/expert_bg.jpg) no-repeat left top;
+  background-size: cover;
+}
+
+.login-bottom-imge {
+  position: absolute;
+  top: 100%;
+  left: 100%;
+}
+
+.login-info {
+  position: absolute;
+  height: 30px;
+  top: 100%;
+  margin-top: -30px;
+  width: 100%;
+  text-align: center;
+  line-height: 30px;
+  font-size: 14px;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.login-form-button {
+  width: 100%;
+  background-color: rgb(32, 203, 106);
+  border-color: transparent;
+  border-radius: 20px;
+}
+
+.login-form-button:hover, .login-form-button:focus {
+  background-color: rgb(32, 220, 106);
+  border-color: transparent;
+}
+
+.login-btn-2 {
+  text-align: center;
+}
+
+.login-btn-confirm-right {
+  width: 47%;
+  border-radius: 20px;
+  background-color: rgb(32, 203, 106);
+  border-color: transparent;
+}
+
+.login-btn-confirm-right:hover, .login-btn-confirm-right:focus  {
+  background-color: rgb(32, 220, 106);
+  border-color: transparent;
+}
+
+.login-btn-cancel-left {
+  width: 47%;
+  border-radius: 20px;
+  margin-right: 6%;
+}
+
+.login-btn-cancel-left:hover, .login-btn-cancel-left:focus {
+  color: rgb(32, 220, 106);
+  border-color: rgb(32, 220, 106);
+}
+
+.ant-input-lg:hover, .ant-input-lg:focus {
+  border-color: rgb(32, 220, 106);
+}

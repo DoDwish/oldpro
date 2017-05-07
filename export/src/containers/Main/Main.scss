@@ -1,0 +1,65 @@
+.layout {
+  background-color: rgb(250,250,251);
+  height: 100%;
+}
+
+.sider {
+  background-color: rgb(241,241,241);
+  height: 100%;
+}
+
+.siderTop {
+  position: relative;
+  height: 180px;
+}
+
+.siderMid {
+  height: 20px;
+  background: rgb(250,250,251);
+}
+
+.siderMenu {
+  background-color: rgb(241,241,241);
+}
+
+.siderMenuItem {
+  background-color: rgb(241,241,241);
+}
+
+.logo {
+  height: 100px;
+  width: 100px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 20px);
+}
+
+.dropdown {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 140px);
+}
+.userIcon{
+  margin-right: 5px;
+}
+.dropdownIcon{
+  margin-left: 5px;
+}
+.breadcrumbContainer {
+  height: 40px;
+  border-color: #fff;
+  position: relative;
+  border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.breadcrumbItem {
+  position: absolute;
+  bottom: 0;
+  transform: translate(20px, -2px);
+}
+
+.breadcrumb {
+  display: inline-block;
+}
